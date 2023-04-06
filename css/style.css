@@ -19,13 +19,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* marquee {
-    font-size: 1.3rem;
-    width: 32%;
-    margin: auto;
-    text-align: center;
-} */
-
 /* ------------------ header -------------------- */
 
 #navbar {
@@ -344,7 +337,7 @@ footer a {
 
 @media only screen and (max-width: 900px) {
     #navbar {
-        opacity: 0.8;
+        /* opacity: 0.8; */
     }
 
     #icon li {

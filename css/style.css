@@ -38,7 +38,6 @@ body {
     font-size: large;
     color: white; 
     font-family: 'Roboto', sans-serif;
-    position: absolute;
 } 
 #logo img {
     height: 50px;
@@ -457,7 +456,7 @@ footer a {
     }
 
     #icon li {
-        margin: 5px;
+        margin: 3px;
     }
 
     #icon li a {

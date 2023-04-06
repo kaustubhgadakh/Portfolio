@@ -338,8 +338,8 @@ footer a {
 @media only screen and (max-width: 900px) {
     #navbar {
         /* opacity: 0.8; */
-    }
 
+    }
     #icon li {
         margin: 9px;
 
@@ -444,6 +444,10 @@ footer a {
     #navbar {
         height: auto;
     }
+    #logo{
+        opacity: 0;
+        position: absolute;
+    } 
 
     #icon {
         flex-wrap: wrap;

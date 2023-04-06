@@ -1,7 +1,7 @@
 
 let image = document.getElementById("image");
 let currentPos = 0;
-let images = ["/img/ph-1.JPG", "/img/ph-2.jpg", "/img/ph-3.jpg"]
+let images = ["/img/ph-1.JPG", "/img/ph-2.JPG", "/img/ph-3.JPG"]
 
 function changeImage() {
     if (++currentPos >= images.length)

@@ -16,6 +16,14 @@
         "source": ""
     },
     {
+        "title": "Razorpay Clone",
+        "image": "img\\Projects\\RazorpayClone.png",
+        "Discription": " Frontend:- I have designed Razorpay website clone using HTML and Tailwind CSS",
+        "date": "04-03-2023",
+        "Visit": "https://razorpay-clone-gadakh.netlify.app/",
+        "source": "https://github.com/kaustubhgadakh/RazorpayClone"
+    },
+    {
         "title": "Counter App",
         "image": "img\\Projects\\Counter_App.png",
         "Discription": " I have designed Counter App using HTML, CSS and Javascript to showcase my work, Create two button increment and Decrement and display number in UI",

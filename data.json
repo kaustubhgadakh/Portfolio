@@ -1,19 +1,19 @@
 [
     {
+        "title": "PlacePrep: Complete guide to Placement preparation",
+        "image": "img\\Projects\\Placeprep.png",
+        "Discription": "The aim of the project is to create a web application which will let the student prepare for their Placement and it will also help companies. This website will contain an quiz module, admin module, study material module.",
+        "date": "15-07-2023",
+        "Visit": "https://placeprep.netlify.app/homepage/",
+        "source": "https://github.com/kaustubhgadakh/placeprep.com"
+    },
+    {
         "title": "Portfolio",
         "image": "img\\Projects\\Portfolio.png",
         "Discription": "A Portfolio Website that i have designed using HTML, CSS and Javascript to showcase my work, Skills and Projects",
         "date": "06-04-2023",
         "Visit": "https://kaustubhgadakh-portfolio.netlify.app/",
         "source": "https://github.com/kaustubhgadakh/Portfolio"
-    },
-    {
-        "title": "My Profile",
-        "image": "img\\Projects\\My_Profile.png",
-        "Discription": " I have designed My Profile using HTML, CSS and Javascript to showcase my work, Create one card and display my profile",
-        "date": "",
-        "Visit": "",
-        "source": ""
     },
     {
         "title": "Razorpay Clone",
@@ -24,12 +24,20 @@
         "source": "https://github.com/kaustubhgadakh/RazorpayClone"
     },
     {
+        "title": "My Profile",
+        "image": "img\\Projects\\My_Profile.png",
+        "Discription": " I have designed My Profile using HTML, CSS and Javascript to showcase my work, Create one card and display my profile",
+        "date": "",
+        "Visit": "",
+        "source": "https://github.com/kaustubhgadakh/My-Profile"
+    },
+    {
         "title": "Counter App",
         "image": "img\\Projects\\Counter_App.png",
         "Discription": " I have designed Counter App using HTML, CSS and Javascript to showcase my work, Create two button increment and Decrement and display number in UI",
         "date": "",
         "Visit": "",
-        "source": ""
+        "source": "https://github.com/kaustubhgadakh/CounterApp"
     },
     {
         "title": "Password Generater",
@@ -37,7 +45,7 @@
         "Discription": " I have designed Password Generater using HTML, CSS and Javascript to showcase my work ",
         "date": "",
         "Visit": "",
-        "source": ""
+        "source": "https://github.com/kaustubhgadakh/Password-Generater"
     },
     {
         "title": "Weather App",
@@ -45,7 +53,7 @@
         "Discription": " I have designed Weather App using HTML, CSS and Javascript to showcase my work, In this website I have created two tab Your_Weather and Search_Weather and Display Weather Information ( Using Weather API ) in UI",
         "date": "",
         "Visit": "",
-        "source": ""
+        "source": "https://github.com/kaustubhgadakh/Weather-App"
     },
     {
         "title": "Dev Detective",
@@ -53,6 +61,6 @@
         "Discription": " I have designed DevDetective using HTML, CSS and Javascript to showcase my work. On this website, I have created a page, search for github_username and display the gitHub Information like Photo, Name, Repos, Followers, Following ( Using github API ) in UI",
         "date": "",
         "Visit": "",
-        "source": ""
+        "source": "https://github.com/kaustubhgadakh/Github-FetchData_App"
     }
 ]

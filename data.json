@@ -32,6 +32,14 @@
         "source": "https://github.com/kaustubhgadakh/My-Profile"
     },
     {
+        "title": "Weather App",
+        "image": "img\\Projects\\Weather_App.png",
+        "Discription": " I have designed Weather App using HTML, CSS and Javascript to showcase my work, In this website I have created two tab Your_Weather and Search_Weather and Display Weather Information ( Using Weather API ) in UI",
+        "date": "22/01/2023",
+        "Visit": "https://weather-datafetch.netlify.app/",
+        "source": "https://github.com/kaustubhgadakh/Weather-App"
+    },
+    {
         "title": "Counter App",
         "image": "img\\Projects\\Counter_App.png",
         "Discription": " I have designed Counter App using HTML, CSS and Javascript to showcase my work, Create two button increment and Decrement and display number in UI",
@@ -46,14 +54,6 @@
         "date": "",
         "Visit": "",
         "source": "https://github.com/kaustubhgadakh/Password-Generater"
-    },
-    {
-        "title": "Weather App",
-        "image": "img\\Projects\\Weather_App.png",
-        "Discription": " I have designed Weather App using HTML, CSS and Javascript to showcase my work, In this website I have created two tab Your_Weather and Search_Weather and Display Weather Information ( Using Weather API ) in UI",
-        "date": "",
-        "Visit": "",
-        "source": "https://github.com/kaustubhgadakh/Weather-App"
     },
     {
         "title": "Dev Detective",
